@@ -662,6 +662,6 @@ public class Base implements ActionListener
 
 	public static void main(String[] args)
 	{
-		new Base("Any Base Calculator ");
+		new Base("Any_Base_Calculator ");
 	}
 }
