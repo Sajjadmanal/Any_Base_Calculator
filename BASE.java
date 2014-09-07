@@ -20,8 +20,6 @@
 
 
 
-
-
 import java.awt.*;
 import java.awt.Dialog.*;
 import javax.swing.*;
