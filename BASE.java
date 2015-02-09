@@ -55,6 +55,8 @@ public class Base implements ActionListener
 	}
 
 
+
+
 	public String comp(String s , int b)
 	{
 		int i;
