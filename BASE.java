@@ -16,7 +16,6 @@
 */
 
 
-
 import java.awt.*;
 import java.awt.Dialog.*;
 import javax.swing.*;
@@ -50,7 +49,6 @@ public class Base implements ActionListener
 		}
 		return r;
 	}
-
 
 
 
@@ -261,12 +259,8 @@ public class Base implements ActionListener
  
 
 
-
-
 		panel_head.setLayout(new FlowLayout(FlowLayout.CENTER));
 		panel_head.add(heading);		
-
-
 
 
 		panel1.setLayout(new FlowLayout(FlowLayout.LEFT));
